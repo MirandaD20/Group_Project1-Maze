@@ -15,7 +15,8 @@ This maze game is a simple maze navigation game implemented in MIPS assembly lan
 • Go to tools > Bitmap Display  
 • Change the settings and do not close window:
 - Unit width and unit height should both be set to 8
-- Display width and height should both be set to 512
+- Pixel Display width and height should both be set to 512
+- Base address should be set to: 0x10010000
 
 3. Open Keyboard and Display MMIO Simulator:
 - Open tools and click on Keyboard and Display MMIO Simulator
