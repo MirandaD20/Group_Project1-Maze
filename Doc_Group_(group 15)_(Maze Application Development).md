@@ -10,7 +10,7 @@ This maze game is a simple maze navigation game implemented in MIPS assembly lan
 
 # Installation and Usage 
 
-1. Run MARS: Open the Code_Group_15_MazeApplicatioinDevelopment.asm you downloaded in MARS
+1. Run MARS: Open the Code_Group_15_MazeApplicationDevelopment.asm you downloaded in MARS
 
 2. Configure to Bitmap:  
 • Go to tools > Bitmap Display  
@@ -23,6 +23,6 @@ This maze game is a simple maze navigation game implemented in MIPS assembly lan
 
 ![MMIO Keyboard](images/Screenshot_2025-12-07_223719.png)
 
-4. Assemble and Run: Assemble the code and run the game to navigate through the maze using WASD controls In Keyboard and Display MMIO Simulator.
+4. Assemble and Run: Assemble the code and run the game to navigate through the maze using WASD controls In Keyboard and Display MMIO Simulator. As soon as the game starts, click on the keyboard input box to control the pixel.
 
 
