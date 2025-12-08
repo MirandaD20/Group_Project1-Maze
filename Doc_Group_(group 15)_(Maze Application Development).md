@@ -1,4 +1,4 @@
-![Maze Preview](images/Screenshot 2025-12-07 215831.png)
+![Maze Preview](images/Screenshot_2025-12-07_215831.png)
 
 # Overview
 This maze game is a simple maze navigation game implemented in MIPS assembly language. This game allows players to navigate through the maze to find their way out with keys and doors.
@@ -16,12 +16,12 @@ This maze game is a simple maze navigation game implemented in MIPS assembly lan
 • Go to tools > Bitmap Display  
 • Change the setting as shown and do not close this window:  
 
-![Bitmap Settings](images/Screenshot 2025-12-07 223309.png)
+![Bitmap Settings](images/Screenshot_2025-12-07_223309.png)
 
 3. Open Keyboard and Display MMIO Simulator:  
 • Click connect to MIPS and leave open this window  
 
-![MMIO Keyboard](images/Screenshot 2025-12-07 223719.png)
+![MMIO Keyboard](images/Screenshot_2025-12-07_223719.png)
 
 4. Assemble and Run: Assemble the code and run the game to navigate through the maze using WASD controls In Keyboard and Display MMIO Simulator.
 
